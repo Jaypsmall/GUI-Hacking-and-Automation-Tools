@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3873A9?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=yellow)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=for-the-badge&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnu-bash&logoColor=yellow)
 
 </p>
 
@@ -503,16 +504,19 @@ LICENSE
 
 ---
 
-<p align="center">
-
 # ⚡ GUI HACKING & AUTOMATION TOOLS
 
+<p align="center">
 <b>RECON • ENUMERATION • FUZZING • AUTOMATION</b>
-
 <br>
-
+  
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=yellow)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=for-the-badge&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnu-bash&logoColor=yellow)
+</p>
 <sub>
 Cybersecurity research • Security education • Authorized auditing
 </sub>
-
 </p>
