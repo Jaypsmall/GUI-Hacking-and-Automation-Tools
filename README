@@ -1,0 +1,99 @@
+# ⚡ GUI-Hacking-and-Automation-Tool
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3873A9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge" alt="License" />
+</p>
+
+<p align="center">
+  <b>Una colección centralizada de interfaces gráficas (GUIs), suites de herramientas y proyectos de automatización para Pentesting, Reconocimiento y Auditoría de Seguridad.</b>
+</p>
+
+---
+
+## 📋 Menú de Módulos y Herramientas
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│              GUI HACKING & AUTOMATION                   │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🔎 Reconnaissance         ->  Nmap, WhatWeb, Nikto     │
+│  🌐 Web Enumeration        ->  HTTP Headers, Tech Stack │
+│  🧬 DNS Enumeration        ->  Dig, Dnsenum, Zone Xfer  │
+│  🛰️ Subdomain Discovery    ->  Passive/Active Recon     │
+│  📡 Service Enumeration    ->  Banner Grabbing, Ports   │
+│  🧩 Fuzzing                ->  Directories, Params      │
+│  📚 Wordlist Generation    ->  Custom Dictionaries      │
+│  🔐 Auth Auditing          ->  Hydra, Brute-Force       │
+│  📦 File / Capture Proc    ->  Handshake Converters     │
+│  ⚙️ Workflow Automation    ->  Multi-Tool Scripts       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+---
+
+## 🛠️ Estructura del Repositorio
+
+```text
+📂 GUI-Hacking-and-Automation-Tool/
+ ├── 📂 reconnaissance/       # Herramientas de escaneo y banner grabbing
+ ├── 📂 web-enumeration/     # Análisis web, fuzzing y extracción de cabeceras
+ ├── 📂 dns-subdomains/      # Enumeración DNS y descubrimiento de subdominios
+ ├── 📂 wordlists-tools/     # Generadores y manipuladores de diccionarios
+ ├── 📂 auth-auditing/       # Módulos para pruebas de fuerza bruta
+ ├── 📂 capture-processing/  # Conversión de handshakes (cap/pcapng a hccapx/22000)
+ └── 📂 full-suites/         # GUIs multifunción todo en uno
+
+---
+
+## 🚀 Características Principales
+
+Visual & Intuitivo: Pasa de la terminal a interfaces gráficas sin perder la potencia de las herramientas CLI.
+
+Automatización de Comandos: Olvídate de memorizar banderas complejas de nmap, dig o hydra.
+
+Procesamiento de Archivos: Herramientas integradas para preparar capturas de red antes del ataque (ej. preparar handshakes de Wi-Fi para hashcat o john).
+
+Modular: Proyectos independientes listos para usar según la fase de la auditoría.
+
+---
+
+## ⚙️ Requisitos y Dependencias
+
+Para ejecutar las GUIs y garantizar que los binarios subyacentes funcionen correctamente, instala las herramientas base en tu sistema:
+
+### Actualizar el sistema e instalar utilidades principales en Debian/Ubuntu/Kali
+
+sudo apt update && sudo apt install -y \
+  python3 \
+  python3-pip \
+  nmap \
+  whatweb \
+  nikto \
+  dnsenum \
+  bind9-host \
+  hydra \
+  hcxtools \
+  aircrack-ng
+
+
+## 📦 Instalación y Uso
+
+Clonar el repositorio:
+
+git clone [https://github.com/tu-usuario/GUI-Hacking-and-Automation-Tools.git](https://github.com/tu-usuario/GUI-Hacking-and-Automation-Tools.git)
+cd GUI-Hacking-and-Automation-Tools
+
+Instalar dependencias de Python (si la herramienta lo requiere):
+
+pip install -r requirements.txt
+
+## ⚠️ Descargo de Responsabilidad (Disclaimer)
+
+Este repositorio contiene proyectos desarrollados exclusivamente con fines educativos, de aprendizaje y de auditoría de seguridad autorizada. 
+El uso de estas herramientas contra objetivos sin consentimiento previo por escrito es ilegal. 
+El desarrollador no asume ninguna responsabilidad por el uso indebido de este software.
