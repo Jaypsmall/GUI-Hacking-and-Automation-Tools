@@ -1,16 +1,11 @@
-# ⚡ GUI-Hacking-and-Automation-Tool
+# ⚡ GUI-Hacking-and-Automation-Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3873A9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge" alt="License" />
-</p>
+![Python](https://img.shields.io/badge/Python-3873A9?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<p align="center">
-  <b>Una colección centralizada de interfaces gráficas (GUIs), suites de herramientas y proyectos de automatización para Pentesting, Reconocimiento y Auditoría de Seguridad.</b>
-</p>
+Una colección centralizada de interfaces gráficas (GUIs), suites de herramientas y proyectos de automatización para Pentesting, Reconocimiento y Auditoría de Seguridad.
 
 ---
 
