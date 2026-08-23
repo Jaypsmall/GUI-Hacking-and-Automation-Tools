@@ -1,4 +1,5 @@
-# ⚡ GUI-Hacking-and-Automation-Tools
+
+# GUI-Hacking-and-Automation-Tools
 
 <p align="center">
   <b>GUI • Pentesting • Reconnaissance • Enumeration • Security Automation</b>
@@ -20,48 +21,3 @@
 </p>
 
 ---
-
-## 🧪 About
-
-**GUI-Hacking-and-Automation-Tools** is a collection of custom graphical interfaces, security utilities and automation projects designed to simplify common cybersecurity and penetration-testing workflows.
-
-The project brings multiple command-line tools together through graphical interfaces, allowing security researchers to configure and execute different tasks without manually constructing complex commands.
-
-The repository focuses on:
-
-- 🔎 Reconnaissance
-- 🌐 Web Enumeration
-- 🧬 DNS Enumeration
-- 🛰️ Subdomain Discovery
-- 📡 Service Enumeration
-- 🧩 Web Fuzzing
-- 📚 Wordlist Generation
-- 🔐 Authentication Auditing
-- 📦 Capture & File Processing
-- ⚙️ Security Workflow Automation
-
----
-
-# 🧭 Modules & Tools
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│              GUI HACKING & AUTOMATION                      │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto            │
-│  🌐 Web Enumeration      → HTTP Headers, Technologies      │
-│  🧬 DNS Enumeration      → dig, dnsenum, DNS Records       │
-│  🛰️ Subdomain Discovery  → Passive / Active Enumeration    │
-│  📡 Service Enumeration  → Ports, Services, Banners        │
-│  🧩 Fuzzing              → Directories, Files, Parameters  │
-│  📚 Wordlist Generation  → Custom Dictionaries             │
-│  🔐 Auth Auditing        → Hydra, Credential Testing       │
-│  📦 Capture Processing   → Capture Format Conversion       │
-│  ⚙️ Workflow Automation  → Multi-Tool Security Workflows   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
