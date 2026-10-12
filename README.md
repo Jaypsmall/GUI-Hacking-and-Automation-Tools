@@ -21,7 +21,7 @@
 
 ---
 
-## 🧪 About
+## 👨‍💻 About
 
 **GUI-Hacking-and-Automation-Tools** is a collection of custom graphical interfaces, security utilities and automation projects designed to simplify common cybersecurity and penetration-testing workflows.
 
@@ -31,10 +31,10 @@ The repository focuses on:
 
 - 🔎 Reconnaissance
 - 🌐 Web Enumeration
-- 🧬 DNS Enumeration
+- ⚡ DNS Enumeration
 - 🛰️ Subdomain Discovery
 - 📡 Service Enumeration
-- 🧩 Web Fuzzing
+- ⚡ Web Fuzzing
 - 📚 Wordlist Generation
 - 🔐 Authentication Auditing
 - 📦 Capture & File Processing
@@ -42,7 +42,7 @@ The repository focuses on:
 
 ---
 
-# 🧭 Modules & Tools
+# ⚙️ Modules & Tools
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
@@ -51,10 +51,10 @@ The repository focuses on:
 │                                                            │
 │  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto            │
 │  🌐 Web Enumeration      → HTTP Headers, Technologies      │
-│  🧬 DNS Enumeration      → dig, dnsenum, DNS Records       │
+│  ⚡ DNS Enumeration      → dig, dnsenum, DNS Records       │
 │  🛰️ Subdomain Discovery  → Passive / Active Enumeration    │
 │  📡 Service Enumeration  → Ports, Services, Banners        │
-│  🧩 Fuzzing              → Directories, Files, Parameters  │
+│  ⚡ Fuzzing              → Directories, Files, Parameters  │
 │  📚 Wordlist Generation  → Custom Dictionaries             │
 │  🔐 Auth Auditing        → Hydra, Credential Testing       │
 │  📦 Capture Processing   → Capture Format Conversion       │
@@ -141,7 +141,7 @@ Combine scanning, service detection, technology identification and enumeration i
 
 Perform web reconnaissance, technology fingerprinting, HTTP analysis and fuzzing from dedicated interfaces.
 
-### 🧬 DNS & Subdomain Enumeration
+### ⚡ DNS & Subdomain Enumeration
 
 Organize DNS queries, record enumeration and subdomain discovery through graphical tools.
 
@@ -157,7 +157,7 @@ Provide interfaces for configuring authentication-auditing tools and controlled 
 
 Utilities for processing and converting security-related capture files into formats required by analysis tools.
 
-### 🧩 Modular Architecture
+### ⚙️ Modular Architecture
 
 Each project can operate independently, allowing individual tools to be used without requiring the entire repository.
 
@@ -213,7 +213,7 @@ The purpose of the automation layer is to organize these stages without hiding w
 
 ---
 
-# 🧰 Requirements
+# 🚀 Requirements
 
 The repository is primarily designed for Linux-based security environments.
 
@@ -338,7 +338,7 @@ aircrack-ng --help
 
 ---
 
-# 🧪 Development
+# 👨‍💻 Development
 
 The repository is designed as a collection of independent projects rather than a single monolithic application.
 
