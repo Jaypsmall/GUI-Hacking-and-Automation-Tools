@@ -45,10 +45,10 @@ The repository focuses on:
 # ⚙️ Modules & Tools
 
 ```text
-┌────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────┐
 │              GUI HACKING & AUTOMATION                      │
-├────────────────────────────────────────────────────┤
-│                                                            │
+├───────────────────────────────────────────────────┤
+│                                                        │
 │  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto            │
 │  🌐 Web Enumeration      → HTTP Headers, Technologies      │
 │  ⚡ DNS Enumeration      → dig, dnsenum, DNS Records       │
@@ -60,7 +60,7 @@ The repository focuses on:
 │  📦 Capture Processing   → Capture Format Conversion       │
 │  ⚙️ Workflow Automation  → Multi-Tool Security Workflows   │
 │                                                            │
-└────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────┘
 ```
 
 ---
