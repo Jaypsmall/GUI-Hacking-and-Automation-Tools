@@ -49,7 +49,7 @@ The repository focuses on:
 │              GUI HACKING & AUTOMATION                      │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto            │
+│  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto             │
 │  🌐 Web Enumeration      → HTTP Headers, Technologies      │
 │  ⚡ DNS Enumeration      → dig, dnsenum, DNS Records       │
 │  🛰️ Subdomain Discovery  → Passive / Active Enumeration    │
@@ -58,7 +58,7 @@ The repository focuses on:
 │  📚 Wordlist Generation  → Custom Dictionaries             │
 │  🔐 Auth Auditing        → Hydra, Credential Testing       │
 │  📦 Capture Processing   → Capture Format Conversion       │
-│  ⚙️ Workflow Automation  → Multi-Tool Security Workflows   │
+│  ⚙️ Workflow Automation  → Multi-Tool Security Workflows    │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
