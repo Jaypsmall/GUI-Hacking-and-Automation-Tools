@@ -48,8 +48,8 @@ The repository focuses on:
 ┌───────────────────────────────────────────────────┐
 │              GUI HACKING & AUTOMATION                      │
 ├───────────────────────────────────────────────────┤
-│                                                           │
-│  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto            │
+│                                                             │
+│  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto.            │
 │  🌐 Web Enumeration      → HTTP Headers, Technologies      │
 │  ⚡ DNS Enumeration      → dig, dnsenum, DNS Records       │
 │  🛰️ Subdomain Discovery  → Passive / Active Enumeration    │
