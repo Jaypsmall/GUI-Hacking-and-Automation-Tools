@@ -45,9 +45,9 @@ The repository focuses on:
 # ⚙️ Modules & Tools
 
 ```text
-┌───────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────┐
 │              GUI HACKING & AUTOMATION                      │
-├───────────────────────────────────────────────────┤
+├─────────────────────────────────────────────────────┤
 │                                                             │
 │  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto.            │
 │  🌐 Web Enumeration      → HTTP Headers, Technologies      │
