@@ -46,7 +46,7 @@ The repository focuses on:
 
 ```text
 ┌─────────────────────────────────────────────────────┐
-│              GUI HACKING & AUTOMATION                      │
+│              GUI HACKING & AUTOMATION                       │
 ├─────────────────────────────────────────────────────┤
 │                                                             │
 │  🔎 Reconnaissance       → Nmap, WhatWeb, Nikto.            │
@@ -60,7 +60,7 @@ The repository focuses on:
 │  📦 Capture Processing   → Capture Format Conversion       │
 │  ⚙️ Workflow Automation  → Multi-Tool Security Workflows   │
 │                                                            │
-└───────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
