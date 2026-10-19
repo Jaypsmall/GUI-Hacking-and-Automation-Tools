@@ -14,7 +14,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=flat&logo=kalilinux&logoColor=FFD600)
 ![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=FFD600)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=flat&logo=python&logoColor=FFD600)
-![Bash](https://img.shields.io/badge/Bash-181717?style=flat&logo=gnu-bash&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-181717?style=flat&logo=gnu-bash&logoColor=FFD600)
 
 </p>
 
@@ -509,13 +509,12 @@ LICENSE
 <b>RECON • ENUMERATION • FUZZING • AUTOMATION</b>
 <br>
   
-![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=yellow)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=yellow)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=for-the-badge&logo=python&logoColor=yellow)
-![Bash](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnu-bash&logoColor=yellow)
-</p>
-<sub>
-Cybersecurity research • Security education • Authorized auditing
-</sub>
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=FFD600)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=flat&logo=kalilinux&logoColor=FFD600)
+![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=FFD600)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=flat&logo=python&logoColor=FFD600)
+![Bash](https://img.shields.io/badge/Bash-181717?style=flat&logo=gnu-bash&logoColor=FFD600)
+
+<sub>Cybersecurity research • Security education • Authorized auditing</sub>
+
 </p>
