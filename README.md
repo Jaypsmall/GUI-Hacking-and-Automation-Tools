@@ -21,11 +21,11 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 Acerca de
 
-**GUI-Hacking-and-Automation-Tools** is a collection of custom graphical interfaces, security utilities and automation projects designed to simplify common cybersecurity and penetration-testing workflows.
+**GUI-Hacking-and-Automation-Tools** Es una colección de interfaces gráficas personalizadas, utilidades de seguridad y proyectos de automatización diseñados para simplificar los flujos de trabajo comunes de ciberseguridad y pruebas de penetración.
 
-The project brings multiple command-line tools together through graphical interfaces, allowing security researchers to configure and execute different tasks without manually constructing complex commands.
+El proyecto reúne varias herramientas de línea de comandos a través de interfaces gráficas, lo que permite a los investigadores de seguridad configurar y ejecutar diferentes tareas sin tener que construir manualmente comandos complejos.
 
 The repository focuses on:
 
