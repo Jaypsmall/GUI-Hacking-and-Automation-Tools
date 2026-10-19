@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  A collection of graphical interfaces and automation tools for cybersecurity,
-  penetration testing and authorized security auditing.
+ Una colección de interfaces gráficas y herramientas de automatización para ciberseguridad, pruebas de penetración y auditorías de seguridad autorizadas.
 </p>
 
 <p align="center">
@@ -27,7 +26,7 @@
 
 El proyecto reúne varias herramientas de línea de comandos a través de interfaces gráficas, lo que permite a los investigadores de seguridad configurar y ejecutar diferentes tareas sin tener que construir manualmente comandos complejos.
 
-The repository focuses on:
+El repositorio se centra en:
 
 - 🔎 Reconnaissance
 - 🌐 Web Enumeration
