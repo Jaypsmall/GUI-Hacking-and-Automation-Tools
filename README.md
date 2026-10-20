@@ -66,7 +66,7 @@ El repositorio se centra en:
 
 # 🛠️ Integrated Tools
 
-The project can provide graphical interfaces or automation around tools such as:
+El proyecto puede proporcionar interfaces gráficas o automatización en torno a herramientas como:
 
 | Tool | Category | Purpose |
 |---|---|---|
@@ -80,7 +80,7 @@ The project can provide graphical interfaces or automation around tools such as:
 | **hcxtools** | Wireless / Capture | Capture processing and conversion |
 | **Aircrack-ng** | Wireless | Wireless security auditing |
 
-Additional tools and integrations may be added as the project evolves.
+Es posible que se añadan herramientas e integraciones adicionales a medida que el proyecto evolucione.
 
 ---
 
