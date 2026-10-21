@@ -138,19 +138,19 @@ Combine el escaneo, la detección de servicios, la identificación de tecnologí
 
 ### 🌐 Web Enumeration
 
-Perform web reconnaissance, technology fingerprinting, HTTP analysis and fuzzing from dedicated interfaces.
+Realizar reconocimiento web, identificación de tecnologías, análisis HTTP y pruebas de fuzzing desde interfaces dedicadas.
 
 ### ⚡ DNS & Subdomain Enumeration
 
-Organize DNS queries, record enumeration and subdomain discovery through graphical tools.
+Organice las consultas DNS, la enumeración de registros y el descubrimiento de subdominios mediante herramientas gráficas. 
 
 ### 📚 Custom Wordlists
 
-Generate and manipulate custom dictionaries for authorized security testing.
+Generar y manipular diccionarios personalizados para pruebas de seguridad autorizadas.
 
 ### 🔐 Authentication Auditing
 
-Provide interfaces for configuring authentication-auditing tools and controlled credential-testing workflows.
+Proporcionar interfaces para configurar herramientas de auditoría de autenticación y flujos de trabajo controlados de prueba de credenciales.
 
 ### 📦 Capture & File Processing
 
