@@ -126,15 +126,15 @@ GUI-Hacking-and-Automation-Tools/
 
 ### 🖥️ Graphical Interfaces
 
-Move repetitive security workflows from the terminal into organized graphical interfaces while retaining access to the underlying command-line tools.
+Trasladar los flujos de trabajo de seguridad repetitivos de la terminal a interfaces gráficas organizadas, manteniendo el acceso a las herramientas de línea de comandos subyacentes.
 
 ### ⚙️ Command Automation
 
-Configure common security tools through a GUI instead of manually constructing complex command-line arguments.
+Configure las herramientas de seguridad comunes a través de una interfaz gráfica de usuario (GUI) en lugar de construir manualmente argumentos complejos de línea de comandos.
 
 ### 🔎 Reconnaissance
 
-Combine scanning, service detection, technology identification and enumeration into organized workflows.
+Combine el escaneo, la detección de servicios, la identificación de tecnología y la enumeración en flujos de trabajo organizados.
 
 ### 🌐 Web Enumeration
 
