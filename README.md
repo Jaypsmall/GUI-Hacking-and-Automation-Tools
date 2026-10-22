@@ -449,7 +449,7 @@ This repository is intended for:
 - Systems owned by the user
 - Systems for which explicit authorization has been granted
 
-**Do not use these tools against systems, networks, accounts or services without authorization.**
+**No utilice estas herramientas contra sistemas, redes, cuentas o servicios sin autorización.**
 
 Some utilities included in this repository can perform security-sensitive operations, including network scanning, fuzzing and authentication testing.
 
