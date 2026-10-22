@@ -154,7 +154,7 @@ Proporcionar interfaces para configurar herramientas de auditoría de autenticac
 
 ### 📦 Capture & File Processing
 
-Utilities for processing and converting security-related capture files into formats required by analysis tools.
+Utilidades para procesar y convertir archivos de captura relacionados con la seguridad a los formatos requeridos por las herramientas de análisis. 
 
 ### ⚙️ Modular Architecture
 
