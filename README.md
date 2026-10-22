@@ -164,7 +164,7 @@ Cada proyecto puede funcionar de forma independiente, lo que permite utilizar he
 
 # 🔄 Example Workflow
 
-A typical reconnaissance workflow can be organized like this:
+Un flujo de trabajo de reconocimiento típico se puede organizar de esta manera:
 
 ```text
                          TARGET
@@ -208,13 +208,13 @@ A typical reconnaissance workflow can be organized like this:
                         RESULTS
 ```
 
-The purpose of the automation layer is to organize these stages without hiding what is happening underneath.
+El propósito de la capa de automatización es organizar estas etapas sin ocultar lo que sucede subyacente.
 
 ---
 
 # 🚀 Requirements
 
-The repository is primarily designed for Linux-based security environments.
+El repositorio está diseñado principalmente para entornos de seguridad basados ​​en Linux.
 
 ### Recommended
 
@@ -228,7 +228,7 @@ Other Debian-based distributions
 
 ### Base dependencies
 
-Depending on the individual GUI, the following tools may be required:
+Dependiendo de la interfaz gráfica de usuario (GUI) específica, pueden ser necesarias las siguientes herramientas:
 
 ```text
 Python 3
@@ -339,7 +339,7 @@ aircrack-ng --help
 
 # 👨‍💻 Development
 
-The repository is designed as a collection of independent projects rather than a single monolithic application.
+El repositorio está diseñado como una colección de proyectos independientes en lugar de una única aplicación monolítica.
 
 This makes it possible to:
 
