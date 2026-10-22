@@ -158,7 +158,7 @@ Utilidades para procesar y convertir archivos de captura relacionados con la seg
 
 ### ⚙️ Modular Architecture
 
-Each project can operate independently, allowing individual tools to be used without requiring the entire repository.
+Cada proyecto puede funcionar de forma independiente, lo que permite utilizar herramientas individuales sin necesidad de todo el repositorio. 
 
 ---
 
