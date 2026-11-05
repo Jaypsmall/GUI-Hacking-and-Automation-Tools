@@ -513,11 +513,18 @@ LICENSE
 <b>RECON • ENUMERATION • FUZZING • AUTOMATION</b>
 <br>
   
-![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=FFD006)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-181717?style=flat&logo=kalilinux&logoColor=FFD006)
-![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python&logoColor=FFD006)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-181717?style=flat&logo=python&logoColor=FFD006)
-![Bash](https://img.shields.io/badge/Bash-181717?style=flat&logo=gnu-bash&logoColor=FFD006)
+<p align="center">
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" height="40" alt="Kali Linux" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="Bash" />
+
+</p>
 
 <sub>Cybersecurity research • Security education • Authorized auditing</sub>
 
