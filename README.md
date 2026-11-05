@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" /> GUI-Hacking-and-Automation-Tools
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="Python" /> GUI-Hacking-and-Automation-Tools
 
 <p align="center">
   <b>GUI • Pentesting • Reconnaissance • Enumeration • Security Automation</b>
